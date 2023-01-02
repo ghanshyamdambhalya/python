@@ -1,0 +1,5 @@
+Write a programe to find bmi using function 
+
+Write a programe to find power and exponent using function
+
+Write a program to findout whether the given number is odd or even using function
